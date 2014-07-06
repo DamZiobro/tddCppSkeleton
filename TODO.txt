@@ -1,0 +1,5 @@
+1. Improve CMakeLists.txt files
+  - differentiate Release/Debug 
+2. Integrate tests passing as part of cmake process + do not create exacutable for tests
+3. Add find package for CppUTest libe when Tests enabled 
+4. Create script to be possible to download this skeleton of Cpp app and change its name (and tests name) easely.
